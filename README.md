@@ -6,6 +6,7 @@
 This project analyzes the Sample Superstore dataset to identify factors that influence company profitability, focusing on sales performance, discount impact, product categories, and loss-making products.
 
 ## Tools
+- Excel
 - Python (Pandas, NumPy)
 - Jupyter Notebook
 - Power BI
